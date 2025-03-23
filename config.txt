@@ -1,0 +1,26 @@
+receptor = 6cm4.pdbqt  
+ligand = ligand.pdbqt  
+
+center_x = -0.274  
+center_y = -0.120  
+center_z = 0.082
+ 
+
+size_x = 60
+size_y = 60 
+size_z = 60  
+
+exhaustiveness = 32    
+energy_range = 3  
+num_modes = 5
+
+
+
+ ExecutiveAlign: 27 atoms aligned.
+ ExecutiveRMS: 1 atoms rejected during cycle 1 (RMSD=1.96).
+ ExecutiveRMS: 1 atoms rejected during cycle 2 (RMSD=1.81).
+ ExecutiveRMS: 1 atoms rejected during cycle 3 (RMSD=1.65).
+ ExecutiveRMS: 2 atoms rejected during cycle 4 (RMSD=1.49).
+ ExecutiveRMS: 1 atoms rejected during cycle 5 (RMSD=1.09).
+Executive: RMSD =    0.905 (21 to 21 atoms)
+after align the docked ligand to orginal ligand
