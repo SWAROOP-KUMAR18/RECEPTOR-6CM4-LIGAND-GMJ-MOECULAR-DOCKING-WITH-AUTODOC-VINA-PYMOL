@@ -29,7 +29,7 @@ This project focuses on the molecular docking analysis of the **6CM4 dopamine re
    - Visualize docking pose in **PyMOL**
 
 ## Results
-- **Binding affinity:** _X kcal/mol_ (Replace with actual value)
+- **Binding affinity:** _X kcal/mol_ : -  -11.1    
 - **Best docking pose**: Shown in PyMOL visualization
 
 - ## How to Reproduce
