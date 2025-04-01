@@ -4,6 +4,17 @@
 ## Overview
 This project focuses on the molecular docking analysis of the **6CM4 dopamine receptor** with the **GMJ ligand** using **AutoDock Vina**. The docking results are analyzed and visualized using **PyMOL**.
 
+## Preprint
+
+The preprint of this work is available on ChemRxiv:
+
+[Link to Preprint on ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67e133826dde43c908038749)
+
+DOI: [10.xxxx/xxxxx](https://doi.org/10.26434/chemrxiv-2025-142j8 )
+
+
+
+
 ## Tools & Software Used
 - **AutoDock Vina** – Molecular docking tool
 - **PyMOL** – Visualization and analysis
