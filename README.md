@@ -8,9 +8,9 @@ This project focuses on the molecular docking analysis of the **6CM4 dopamine re
 
 The preprint of this work is available on ChemRxiv:
 
-[Link to Preprint on ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67e133826dde43c908038749)
+(https://chemrxiv.org/engage/chemrxiv/article-details/67e133826dde43c908038749)
 
-DOI: [10.xxxx/xxxxx](https://doi.org/10.26434/chemrxiv-2025-142j8 )
+DOI: (https://doi.org/10.26434/chemrxiv-2025-142j8 )
 
 
 
